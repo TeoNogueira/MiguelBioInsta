@@ -23,7 +23,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to top, #354851, #45026b, #45026b, #45026b, #45026b, #45026b, #45026b, #45026b, #45026b, #45026b, #45026b,#354851);
+    background: linear-gradient(to top, #354851, #3c026b, #3c026b, #3c026b, #3c026b, #3c026b, #3c026b, #3c026b, #3c026b, #3c026b, #3c026b,#354851);
     overflow-y: hidden;
     overflow-x: hidden;
 
