@@ -408,7 +408,7 @@ main section .img-ava {
 
 .cb-2 {
  
-    border: solid 2px rgb(214, 61, 14);
+    border: solid 2px rgb(214, 31, 14);
     transition: 3.5s;
 }
 
@@ -564,7 +564,7 @@ footer ul {
     user-select: none;
 width: 100%;
 height: 100%;
-background: linear-gradient(to top, #354851, #45026b, #45026b, #45026b, #45026b, #45026b, #45026b, #45026b, #45026b, #45026b, #45026b,#354851) !important;
+background: linear-gradient(to top, #354851, #3c026b, #3c026b, #3c026b, #3c026b, #3c026b, #3c026b, #3c026b, #3c026b, #3c026b, #3c026b,#354851) !important;
 
 }
 
