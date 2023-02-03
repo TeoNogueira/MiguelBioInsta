@@ -396,20 +396,20 @@ main section .img-ava {
 
 .cb-0  {
   
-    border: solid 2px #fff !important;
-    transition: 3.5s !important;
+    border: solid 2px #fff;
+    transition: 3.5s;
 }
 
 .cb-1  {
 
-    border: solid 2px rgb(48, 251, 251) !important;
-    transition: 3.5s !important;
+    border: solid 2px rgb(48, 251, 251);
+    transition: 3.5s;
 }
 
 .cb-2 {
  
-    border: solid 2px rgb(251, 211, 48) !important;
-    transition: 3.5s !important;
+    border: solid 2px rgb(214, 61, 14);
+    transition: 3.5s;
 }
 
 
